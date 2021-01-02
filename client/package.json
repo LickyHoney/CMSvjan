@@ -23,7 +23,7 @@
     "flatpickr": "^4.6.6",
     "jwt-decode": "^2.2.0",
     "leaflet-routing-machine": "^3.2.12",
-    "mazemap": "file:./mazemap",
+    
     "react": "^16.13.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^16.13.1",
