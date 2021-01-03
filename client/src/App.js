@@ -21,7 +21,7 @@ import Map1 from "./components/dashboard/Map1";
 //import FloorMap from "./components/dashboard/FloorMap";
 import FloorMap from "./components/dashboard/FloorMap";
 import EditFloormap from "./components/dashboard/EditFloormap"
-import { MazeMapWrapper } from "./components/dashboard/MazeMapWrapper";
+//import { MazeMapWrapper } from "./components/dashboard/MazeMapWrapper";
 
 // Check for token to keep user logged in
 if (localStorage.jwtToken) {
